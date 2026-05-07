@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/CharemshaTeam/",
+    "build": "vite build --base=/fs129_html-css_tngroo/",
     "preview": "vite preview"
   },
   "devDependencies": {
